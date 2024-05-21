@@ -1,6 +1,6 @@
 - Hi, I’m Zhanerke
-- I’m interested in Computer Sciences
-- I’m currently studying Data Science and analytics in HongKong
+- I’m interested in Computer Sciences,
+- Currently studying Data Science and Analytics in HKPU
 - You can reach me by email @zbeisetay@gmail.com
 
 <!---
